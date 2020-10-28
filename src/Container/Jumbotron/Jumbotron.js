@@ -1,5 +1,5 @@
-import {Jumbotron} from "../../Components/index";
-import netflixData from "../../Jimbotron/Jimbo.json";
+import {Jumbotron} from "../../Components/index"; 
+import netflixData from "../../Data/Jimbo.json";
 import Image1 from "../../Assets/Images/misc/home-tv.jpg";
 import Image2 from "../../Assets/Images/misc/home-mobile.jpg";
 import Image3 from "../../Assets/Images/misc/home-imac.jpg";

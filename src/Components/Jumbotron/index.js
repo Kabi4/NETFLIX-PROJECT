@@ -27,7 +27,6 @@ Jumbotron.SubTitle = function JumbotronSubTitle ({children,...props}){
 }
 
 Jumbotron.Image = function JumbotronImage ({children,...props}){
-    console.log(props)
     return <Image {...props} >{children}</Image>
 }
 
