@@ -17,7 +17,7 @@ export default function WelcomeMain() {
         );
       })}
       <Optform>
-        <Optform.Input placeholder="Email address" />
+        <Optform.Input placeholder="Email address" type="email" />
         <Optform.Button>Try it now</Optform.Button>
         <Optform.Break />
         <Optform.Text>
