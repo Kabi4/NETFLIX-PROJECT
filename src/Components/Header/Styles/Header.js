@@ -89,11 +89,15 @@ export const FeatureText = styled.p`
 `;
 
 export const Link = styled.p`
-    color: #e50914;
+    color: ${({ active }) => (active === true ? '#e50914' : '#ccc')};
     text-decoration: none;
     margin-right: 30px;
-    font-weight: ${({ active }) => (active === 'true' ? '900' : '600')};
-    cursor: pointer;
+    margin-bottom: 10px;
+    transition: all 0.2s ease-in;
+    font-weight: ${({ active }) => (active === true ? '900' : '600')};
+    border-bottom: ${({ active }) =>
+        active === true ? '2px solid #e50912' : 'none'};
+    cursor: ${({ active }) => (active === true ? 'not-allowed' : 'pointer')};
     &:hover {
         font-weight: 900;
     }
