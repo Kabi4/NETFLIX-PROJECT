@@ -4,6 +4,6 @@
   - ![CARDS Snekay Peak](https://github.com/Kabi4/NETFLIX-PROJECT/blob/main/SneakyPeak1.png)   
   
 # `SNEAKY PEAK PRODUCT`
-  - ![PRODUCT Snekay Peak](https://github.com/Kabi4/NETFLIX-PROJECT/blob/main/SneakyPeak2.png)    
+  - ![PRODUCT Snekay Peak](https://github.com/Kabi4/NETFLIX-PROJECT/blob/main/SneakyPeak2.png)     
   
  
